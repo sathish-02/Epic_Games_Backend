@@ -71,7 +71,7 @@ To run, follow these steps:
 - Clone my repository https://github.com/sathish-02/Epic_Games.git
 - Open that code in your VS code Project Files/index.html
 - Open the index.html on Live server
-- Initialise the server node server.js on terminal
+- Initialise the server node Main.js on terminal
 - Then you can Navigate through other pages from Home page like Browse.html, gameDetailsData.html etc
 
 # Built with
@@ -79,7 +79,9 @@ To run, follow these steps:
 - CSS
 - Advance JavaScript (ES6)
 - DOM
-- Basics of node js
+- Node js
+- Mongo DB (NO SQL)
+- Express js
 
 # DOM-Events & Attributes
 - addEventListener()
@@ -91,9 +93,6 @@ To run, follow these steps:
 - localStorage.getItem()
 - localStorage.setItem()
 
-# APIs
-1.https://newsapi.org/v2/everything?q=games&apiKey=[api_key] 
-2.Npm mock server
 
 # Creators
 - @Sathish
