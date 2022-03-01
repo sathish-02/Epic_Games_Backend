@@ -68,7 +68,7 @@
 
 To run, follow these steps:
 
-- Clone my repository https://github.com/sathish-02/Epic_Games.git
+- Clone my repository https://github.com/sathish-02/Epic_Games_Backend.git
 - Open that code in your VS code Project Files/index.html
 - Open the index.html on Live server
 - Initialise the server node Main.js on terminal
